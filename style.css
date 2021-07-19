@@ -1,0 +1,8 @@
+.main-header {
+    background-color: black;
+}
+.main-header li{
+    display: inline-block;
+    background-color: blanchedalmond;
+    padding: 5px;
+}
